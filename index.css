@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+    background-color: Salmon;
+}
+
+.titulo_main{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.img_baner{
+    width: 150px;
+    height: 150px;
+}
